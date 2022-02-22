@@ -39,3 +39,7 @@ https://www.history.com/this-day-in-history/edward-snowden-discloses-u-s-governm
 https://www.npr.org/2020/05/20/859376407/journalist-who-helped-break-snowdens-story-reflects-on-his-high-stakes-reporting
 
 https://www.npr.org/2013/09/18/223523622/officials-edward-snowdens-leaks-were-masked-by-job-duties
+
+https://www.npr.org/2019/09/19/761918152/exiled-nsa-contractor-edward-snowden-i-haven-t-and-i-won-t-cooperate-with-russia
+
+https://www.justsecurity.org/64464/the-snowden-effect-six-years-on/
