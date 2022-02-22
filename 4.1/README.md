@@ -6,6 +6,8 @@ KEY:
 - 0 means the system was unaffected (or not very affected) by the quandry
 - 1 means the system was (majorly or somewhat) affected by the quandry
 
+
+
 My topic was Edward Snowden's release of classified documents back in 2013. There are a couple perspectives to look at this from - namely: 
 - the perspective of the government (one of the "wronged" parties)
 - regular citizens (i.e. those who are not a part of the NSA or CIA or other similar department; one of the wronged parties)
