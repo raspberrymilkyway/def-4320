@@ -2,6 +2,8 @@
 
 Any file with the format that has "test.py" at the end is a file that is part of my submission. The number at the beginning is the question that test is answering.
 
+I tested `*_test.py` files with `pytest -ra --tb=short`.
+
 ### Test 1 - login		(passes)
 
 ### Test 2 - check_password 	(passes)
